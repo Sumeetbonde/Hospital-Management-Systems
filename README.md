@@ -15,8 +15,7 @@ Clone the repository:
 
 bash
 Copy
-Edit
-git clone https://github.com/your-username/hospital-management-system.git
+Edit: https://github.com/Sumeetbonde/Hospital-Management-System.git
 Import the project into your favorite Java IDE (Eclipse, IntelliJ, etc.).
 
 Make sure MySQL is installed and running on your machine.
